@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Thales.Server.props" />
+</Project>

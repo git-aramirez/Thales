@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\pro\Thales\Thales.Domain\bin\Debug\net8.0\Thales.Domain.deps.json
+C:\Users\Usuario\Desktop\pro\Thales\Thales.Domain\bin\Debug\net8.0\Thales.Domain.dll
+C:\Users\Usuario\Desktop\pro\Thales\Thales.Domain\bin\Debug\net8.0\Thales.Domain.pdb
+C:\Users\Usuario\Desktop\pro\Thales\Thales.Domain\obj\Debug\net8.0\Thales.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\pro\Thales\Thales.Domain\obj\Debug\net8.0\Thales.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\pro\Thales\Thales.Domain\obj\Debug\net8.0\Thales.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\pro\Thales\Thales.Domain\obj\Debug\net8.0\Thales.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\pro\Thales\Thales.Domain\obj\Debug\net8.0\Thales.Domain.dll
+C:\Users\Usuario\Desktop\pro\Thales\Thales.Domain\obj\Debug\net8.0\refint\Thales.Domain.dll
+C:\Users\Usuario\Desktop\pro\Thales\Thales.Domain\obj\Debug\net8.0\Thales.Domain.pdb
+C:\Users\Usuario\Desktop\pro\Thales\Thales.Domain\obj\Debug\net8.0\ref\Thales.Domain.dll

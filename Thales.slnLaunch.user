@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Thales.Server\\Thales.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "thales.client\\thales.Client.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
