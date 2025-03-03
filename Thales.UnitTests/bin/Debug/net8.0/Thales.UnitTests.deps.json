@@ -40,11 +40,11 @@
           "MSTest.TestFramework": "2.2.8",
           "Microsoft.AspNetCore.Mvc.Testing": "8.0.1",
           "Microsoft.NET.Test.Sdk": "17.1.0",
-          "Thales.API": "1.0.0",
           "Thales.Core": "1.0.0",
           "Thales.Domain": "1.0.0",
+          "Thales.Server": "1.0.0",
           "coverlet.collector": "3.1.2",
-          "thales.client": "1.0.0",
+          "thales.Client": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "8.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "8.0.0.0",
           "Microsoft.AspNetCore.Authentication.BearerToken": "8.0.0.0",
@@ -1729,23 +1729,6 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "Thales.API/1.0.0": {
-        "dependencies": {
-          "Microsoft.AspNetCore.SpaProxy": "8.0.13",
-          "Newtonsoft.Json": "13.0.3",
-          "Swashbuckle.AspNetCore": "6.4.0",
-          "Thales.Core": "1.0.0"
-        },
-        "runtime": {
-          "Thales.API.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        },
-        "compile": {
-          "Thales.API.dll": {}
-        }
-      },
       "Thales.Core/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Configuration.Abstractions": "9.0.2",
@@ -1772,6 +1755,23 @@
         },
         "compile": {
           "Thales.Domain.dll": {}
+        }
+      },
+      "Thales.Server/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.SpaProxy": "8.0.13",
+          "Newtonsoft.Json": "13.0.3",
+          "Swashbuckle.AspNetCore": "6.4.0",
+          "Thales.Core": "1.0.0"
+        },
+        "runtime": {
+          "Thales.Server.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "compile": {
+          "Thales.Server.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/8.0.0.0": {
@@ -3550,7 +3550,7 @@
         },
         "compileOnly": true
       },
-      "thales.client/1.0.0": {
+      "thales.Client/1.0.0": {
         "compileOnly": true
       }
     }
@@ -4443,17 +4443,17 @@
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
-    "Thales.API/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Thales.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "Thales.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Thales.Server/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -5938,7 +5938,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "thales.client/1.0.0": {
+    "thales.Client/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

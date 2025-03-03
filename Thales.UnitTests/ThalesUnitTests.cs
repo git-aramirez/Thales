@@ -62,7 +62,7 @@ namespace Thales.UnitTests
             catch (Exception ex)
             {
                 //Assert
-                Assert.AreEqual("Something went wrong when the product was attempted to obtain!", ex.Message);
+                Assert.AreEqual("please enter a correct id", ex.Message);
             }
         }
     }
